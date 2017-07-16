@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lato', sans-serif;    
+    color: #3A473A;
+    display: flex;
+    font-weight: 300;
+}
+
+
+/*commented for reuse*/
+ /** {
+   outline: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}*/
